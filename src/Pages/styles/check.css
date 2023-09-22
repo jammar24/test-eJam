@@ -1,0 +1,35 @@
+.check{
+    width: 100%;
+     height: 100%;
+      justify-content: space-between;
+       align-items: center;
+        display: inline-flex;
+        padding: 5%;
+}
+.check__step-one{
+    color: black; 
+     font-size: 20px;
+      font-family: Manrope;
+       font-weight: 400;
+        text-transform: capitalize;
+         line-height: 22px;
+          word-wrap: break-word;
+}
+.check__circule{
+    width: 40px;
+     height: 40px;
+      left: 10px;
+       top: 267px;
+        position: absolute;
+         background: #85BF55;
+          border-radius: 9999px;
+           border: 2px #85BF55 solid;
+}
+.check__list {
+    width: 20px; 
+     height: 14px;
+      left: 0px;
+       top: 1px;
+        position: absolute;
+         border: 2.50px rgb(215, 9, 9) solid;
+}
