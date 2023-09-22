@@ -5,6 +5,7 @@ import Footer from './Pages/Footer'
 import Namemain from './Pages/Namemain'
 import Navbar from './Pages/Navbar'
 import Navbarsecond from './Pages/Navbarsecond'
+import Review from './Pages/Review'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
     <Navbarsecond/>
     <Namemain/>
     <Containermain/>
+    <Review/>
     <Footer/>
     
    </>  
