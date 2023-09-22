@@ -1,0 +1,16 @@
+.containermain {
+    width: 100%;
+     height: 100%; 
+     position: relative; 
+     background: #FAFAFA;
+      border-radius: 10px; 
+      overflow: hidden;
+}
+.containermain__img {
+    width: 575px;
+     height: 591px;
+      left: 0px; 
+      top: 0px; 
+      
+       border-radius: 10px;
+}
