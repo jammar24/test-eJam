@@ -14,7 +14,7 @@ const Check = () => {
    <div className='check__step-one'>Step 2 : Checkout</div>
    </div> 
    <div>
-   <div className='check__step-one'>Step 3 : Special Offer</div>
+   <div className='check__step-one-two'>Step 3 : Special Offer</div>
    </div> 
    <div>
    <div className='check__step-one'>Step 4 : Confirmation</div>

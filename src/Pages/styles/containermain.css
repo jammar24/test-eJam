@@ -1,14 +1,14 @@
-.containermain {
+.containerp {
     width: 100%;
      height: 100%; 
      position: relative; 
      background: #FAFAFA;
       border-radius: 10px; 
-      overflow: hidden;
+   margin-left: 127px;
 }
 .containermain__img {
-    width: 575px;
-     height: 591px;
+    width: 35%;
+     height: 40%;
       left: 0px; 
       top: 0px; 
       
